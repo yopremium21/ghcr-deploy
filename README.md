@@ -14,7 +14,7 @@ echo $CR_PAT | docker login ghcr.io -u USERNAME --password-stdin
 # Use Github Actions to Publish a Docker image to Github Packages (GHCR)
 
 
-Steps To create and push to ghcr.io
+**#Steps To create and push to ghcr.io**
 1. sudo docker pull ubuntu:latest
 2. sudo docker images
 3. sudo docker run -it [IMAGE ID] bin/bash
