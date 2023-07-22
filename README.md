@@ -34,3 +34,4 @@ echo $CR_PAT | docker login ghcr.io -u USERNAME --password-stdin
 13. sudo docker login --username yopremium21 --password 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 ghcr.io
 14. Login Succeeded
 15. sudo docker push ghcr.io/yopremium21/botstatus:main
+16. If help needed watch this https://www.youtube.com/watch?v=RgZyX-e6W9E
